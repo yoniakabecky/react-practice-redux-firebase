@@ -1,0 +1,24 @@
+# marioplan
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/marioplan/node_modules
+/marioplan/.pnp
+/marioplan/.pnp.js
+
+# testing
+/marioplan/coverage
+
+# production
+/marioplan/build
+
+# misc
+/marioplan/.DS_Store
+/marioplan/.env.local
+/marioplan/.env.development.local
+/marioplan/.env.test.local
+/marioplan/.env.production.local
+
+/marioplan/npm-debug.log*
+/marioplan/yarn-debug.log*
+/marioplan/yarn-error.log*
